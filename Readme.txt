@@ -1,3 +1,5 @@
+------------------------------------ PROBLEM ----------------------------------------
+
 Write your own MATLAB Routines for the following: 
 1. Histogram, Normalized Histogram, Histogram equalization
 2. Contrast Stretching 
